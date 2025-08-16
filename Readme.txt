@@ -15,4 +15,4 @@ Steps to execute the SQL scripts:
    CALL SendWatchTimeReport();
    CALL PrintAllSubscribersWatchHistory();
 
-Git Repository Link: <provide your git repo link here before submission>
+Git Repository Link:https://github.com/Tejaswini-123-mannem/SSD-lab-assg2
