@@ -1,7 +1,7 @@
 Steps to execute the SQL scripts:
 
 1. Open MySQL Workbench and connect to your local server.
-2. Load the given tables and insert sample data from the assignment.
+2. Under 'shows' database load the given tables and insert sample data from the assignment.
 3. Execute each .sql file in the following order:
    - q1.sql
    - q2.sql
