@@ -1,4 +1,4 @@
-DROP PROCEDURE IF EXISTS AddSubscriberIfNotExists;
+-- DROP PROCEDURE IF EXISTS AddSubscriberIfNotExists;
 DELIMITER $$
 CREATE PROCEDURE AddSubscriberIfNotExists(IN subName VARCHAR(100))
 BEGIN
